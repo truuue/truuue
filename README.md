@@ -15,4 +15,8 @@
 
 ##
 
+<p = align="center">
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=truuue&hide=issues,stars&theme=dark">
+</p>
+<br>
 [![Noah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=truuue&hide=issues,stars&theme=dark#gh-dark-mode-only)](https://github.com/truuue/github-readme-stats#gh-dark-mode-only)[![Noah's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=truuue&hide=issues,stars&theme=default#gh-light-mode-only)](https://github.com/truuue/github-readme-stats#gh-light-mode-only)[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=truuue&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/truuue/github-readme-stats#gh-dark-mode-only)[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=truuue&layout=compact&theme=default#gh-light-mode-only)](https://github.com/truuue/github-readme-stats#gh-light-mode-only)
