@@ -19,10 +19,11 @@
 ---
 
 ### ⚡ Tech Stack  
-🚀 **Languages** : JavaScript, TypeScript, Python  
-🛠️ **Frameworks & Libraries** : React, Next.js, Node.js, TailwindCSS  
-🗄️ **Databases** : PostgreSQL, MongoDB  
-🛠️ **Tools** : Git, Docker, Postman, Vercel  
+🚀 **Languages** : JavaScript, TypeScript, Golang, PHP, Python
+🛠️ **Frameworks & Libraries** : React, Next.js, Vue.js, Nuxt, Astro, Svelte, TailwindCSS
+🗄️ **Databases** : PostgreSQL, MongoDB, SQLite
+🛠️ **Tools** : Git, Docker, Postman, Vite.js, Prettier
+⚙️ **Runtime environment** : Node.js, Bun
 
 ---
 
