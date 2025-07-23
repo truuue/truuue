@@ -1,5 +1,5 @@
 <h1 align="center">
-    🚀 Hey, I'm Noah!  
+    👋 Hey, I'm Noah!  
     <br> <em>Full Stack Developer</em>
 </h1>
 
