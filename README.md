@@ -1,6 +1,6 @@
 <h1 align="center">
     🚀 Hey, I'm Noah!  
-    <br> <em>Building sleek & performant web experiences</em>
+    <br> <em>Full Stack Developer</em>
 </h1>
 
 <p align="center">
