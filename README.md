@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-🎯 **Full-Stack Web Developer** passionate about **React**, **Next.js**, and crafting **high-performance, user-centric applications**.  
+🎯 **Full-Stack Web Developer** passionate about **new tech**, and crafting **high-performance, user-centric applications**.  
 💡 Constantly exploring new **technologies, best practices, and optimizations** to build **scalable** and **intuitive** digital solutions.  
 🔥 Lover of **clean code, minimal UI, and performance-first development**.  
 
