@@ -41,7 +41,7 @@ I love:
 🔧 **Tools**  
 `Git` • `Docker` • `Prettier` • `Postman` • `Bruno`
 
-⚙️ **Runtime environment**
+⚙️ **Runtime environment**  
 `Bun` • `Node.js`
 
 💽 **OS**  
