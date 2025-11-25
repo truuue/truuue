@@ -62,8 +62,8 @@ I love:
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=truuue&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide=issues,stars" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truuue&layout=compact&theme=transparent&hide_border=true" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=truuue&hide=issues,stars&theme=transparent&hide_border=true">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truuue&layout=compact&theme=transparent&hide_border=true">
 </p>
 
 ---
