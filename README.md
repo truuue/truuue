@@ -20,10 +20,11 @@
 
 ### ⚡ Tech Stack  
 🚀 **Languages** : JavaScript, TypeScript, Golang, PHP, Python  
-🛠️ **Frameworks & Libraries** : React, Next.js, Vue.js, Nuxt, Astro, Svelte, TailwindCSS  
-🗄️ **Databases** : PostgreSQL, MongoDB, SQLite  
-🛠️ **Tools** : Git, Docker, Postman, Vite.js, Prettier  
+🛠️ **Frameworks & Libraries** : React, Next.js, Vue.js, Nuxt, Hono, Astro, Svelte, Laravel, TailwindCSS  
+🗄️ **Databases** : PostgreSQL, MongoDB, MySQL, SQLite  
+🛠️ **Tools** : Git, Docker, Vite.js, Prettier, Postman, Bruno  
 ⚙️ **Runtime environment** : Node.js, Bun  
+💾 **Operating system** : Linux, macOS  
 
 ---
 
