@@ -4,8 +4,11 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/noah-vernhet/" target="_blank">
+    <a href="https://www.linkedin.com/in/noah-vernhet/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://noahvernhet.com/fr/" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" />
     </a>
 </p>
 
