@@ -32,22 +32,22 @@ I love:
 
 ## 🧩 Tech Stack
 
-🚀 **Languages**  
+**Languages**  
 `JavaScript` • `TypeScript` • `Go` • `PHP` • `Python`
 
-📦 **Frameworks & Libraries**  
+**Frameworks & Libraries**  
 `React` • `Vite` • `Next.js` • `Vue` • `Nuxt` • `Svelte` • `Astro` • `Hono` • `Laravel` • `TailwindCSS`
 
-💾 **Databases**  
+**Databases**  
 `PostgreSQL` • `MongoDB` • `MySQL` • `SQLite`
 
-🔧 **Tools**  
+**Tools**  
 `Git` • `Docker` • `Prettier` • `Postman` • `Bruno`
 
-⚙️ **Runtime environment**  
+**Runtime environment**  
 `Bun` • `Node.js`
 
-💽 **OS**  
+**OS**  
 `Linux` • `macOS`
 
 ---
