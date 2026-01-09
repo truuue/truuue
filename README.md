@@ -64,10 +64,9 @@ I love:
 
 ## 📈 GitHub Overview
 
-<p align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=truuue&hide=issues,stars&theme=transparent&hide_border=true">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truuue&layout=compact&theme=transparent&hide_border=true">
-</p>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=truuue&theme=transparent&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
