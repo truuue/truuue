@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/noah-vernhet/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://noahvernhet.com/fr/" target="_blank" rel="noreferrer noopener">
+    <a href="https://noahvernhet.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" />
     </a>
 </p>
@@ -59,14 +59,6 @@ I love:
 - Develop **APIs & backend systems**
 - Experiment, learn, and push new tech **beyond the basics**
 - Work on **open-source** & side projects
-
----
-
-## 📈 GitHub Overview
-
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=truuue&theme=transparent&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
 
 ---
 
